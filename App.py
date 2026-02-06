@@ -61,7 +61,7 @@ if not st.session_state.accepted:
 
             st.warning(random.choice([
                 "Oops… that button moved 😄",
-                "Nice try, Milky 😉",
+                "Nice try, Chinwe 😉",
                 "The universe redirected that choice 💫",
                 "Hmm… that didn’t land 😌",
                 "Retry unlocked 😄"
@@ -119,3 +119,4 @@ else:
 
 
     st.markdown("💝 Made with creativity, courage, and code.")
+
